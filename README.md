@@ -1,0 +1,1 @@
+# Claude-Competitor-Research-Agent
