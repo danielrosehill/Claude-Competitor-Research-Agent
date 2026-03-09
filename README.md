@@ -1,3 +1,5 @@
+[![Claude Code Project](https://img.shields.io/badge/Claude%20Code-Project-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+
 # Competitor Research Agent
 
 A Claude Code space for systematic competitive intelligence research using white-hat methodology.
@@ -50,3 +52,7 @@ outputs/          Finished reports, comparisons, and summaries
 - **Startups** mapping the competitive landscape before market entry
 - **Businesses** monitoring competitor positioning and strategy
 - **Agencies** conducting competitive research for clients
+
+---
+
+For more Claude Code projects, visit my [Claude Code Repos Index](https://github.com/danielrosehill/Claude-Code-Repos-Index).
